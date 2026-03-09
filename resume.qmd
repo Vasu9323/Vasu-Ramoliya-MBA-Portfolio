@@ -1,0 +1,32 @@
+---
+title: "Resume"
+---
+
+## Education
+
+**Master of Business Administration (MBA)**  
+*University Canada West – Vancouver, BC*  
+Expected Completion: April 2026  
+*(Focus: Business Analytics and Strategic Decision-Making)*
+
+---
+
+## Professional Experience
+
+### Landscaping Technician
+**Cedar Creek Property Services** | *Vancouver, BC*  
+- Delivered property maintenance services while maintaining high-quality standards.
+- Strengthened teamwork, time management, and client-focused communication skills.
+
+### Back Office Executive
+**Seagal Laminate** | *India*  
+- Managed documentation, order coordination, and reporting processes.
+- Supported operational workflow efficiency and administrative accuracy.
+
+---
+
+### Download Resume
+<a href="Vasu_Ramoliya_Resume.pdf" download class="btn btn-success" style="background-color: #6ee7b7; color: #1a2f23; border: none; font-weight: bold; padding: 10px 20px; text-decoration: none; border-radius: 5px;">
+  &#128196; Download Full Resume (PDF)
+</a>
+

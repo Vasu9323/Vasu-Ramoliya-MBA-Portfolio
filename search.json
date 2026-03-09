@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to My Portfolio",
+    "section": "",
+    "text": "Vasu Ramoliya\nMBA Candidate | Business Analytics | Vancouver, BC\nI am an MBA candidate at University Canada West with a focus on Business Analytics and strategic decision-making. My work emphasizes using data-driven analysis and structured project management approaches to improve operational performance and support informed business strategy.\nThrough academic projects, I have developed skills in predictive modeling, data evaluation, and business framework application. I am actively seeking opportunities in Business Analysis or Data Analytics within the Canadian market.\n\nExplore my Projects → | View my Resume →"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Welcome to My Portfolio",
+    "section": "",
+    "text": "I am an MBA candidate at University Canada West with a focus on Business Analytics and strategic decision-making. My work emphasizes using data-driven analysis and structured project management approaches to improve operational performance and support informed business strategy.\nThrough academic projects, I have developed skills in predictive modeling, data evaluation, and business framework application. I am actively seeking opportunities in Business Analysis or Data Analytics within the Canadian market.\n\nExplore my Projects → | View my Resume →"
+  },
+  {
+    "objectID": "Resume.html",
+    "href": "Resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Master of Business Administration (MBA)\nUniversity Canada West – Vancouver, BC\nExpected Completion: April 2026\n(Focus: Business Analytics and Strategic Decision-Making)"
+  },
+  {
+    "objectID": "Resume.html#education",
+    "href": "Resume.html#education",
+    "title": "Resume",
+    "section": "",
+    "text": "Master of Business Administration (MBA)\nUniversity Canada West – Vancouver, BC\nExpected Completion: April 2026\n(Focus: Business Analytics and Strategic Decision-Making)"
+  },
+  {
+    "objectID": "Resume.html#professional-experience",
+    "href": "Resume.html#professional-experience",
+    "title": "Resume",
+    "section": "Professional Experience",
+    "text": "Professional Experience\n\nLandscaping Technician\nCedar Creek Property Services | Vancouver, BC\n- Delivered property maintenance services while maintaining high-quality standards. - Strengthened teamwork, time management, and client-focused communication skills.\n\n\nBack Office Executive\nSeagal Laminate | India\n- Managed documentation, order coordination, and reporting processes. - Supported operational workflow efficiency and administrative accuracy.\n\n\n\nDownload Resume\n 📄 Download Full Resume (PDF)"
+  },
+  {
+    "objectID": "skills.html",
+    "href": "skills.html",
+    "title": "Skills & Expertise",
+    "section": "",
+    "text": "I combine advanced data analytics with strong business strategy to solve complex problems. Below is an overview of my core competencies.\n\n\nData Analytics\n\nLanguages: Python (Pandas, NumPy, scikit-learn, XGBoost)\nTechniques: Data Cleaning, Feature Engineering, Predictive Modeling, Model Evaluation\nMetrics: ROC-AUC, F1 Score\n\n\n\nBusiness & Strategy\n\nFrameworks: SWOT Analysis, Porter’s Five Forces\nCompetencies: Market Analysis, Risk Assessment, Strategic Planning\nProject Management: WBS, OBS, Scheduling, Cost Baselining, PMI Principles\n\n\n\nTools & Software\n\nVisualization: Tableau\nAnalysis: Advanced Excel\nManagement: ProjectLibre\n\n\n(Note: We will eventually format these into a nice table or add some icons to make the page pop visually!)"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects & Case Studies",
+    "section": "",
+    "text": "Welcome to my portfolio of academic and professional projects. Below are examples of how I apply data-driven analysis and structured management frameworks to solve complex business problems.\n\n\n1. Health Insurance Cross-Sell Prediction\n(Machine Learning & Predictive Analytics)\n\nThe Challenge: An insurance provider needed to identify which existing health insurance customers would be interested in purchasing vehicle insurance.\nMy Role & Solution: I built and evaluated classification models including Logistic Regression, Random Forest, and XGBoost using Python and the scikit-learn library.\nMethodology: I applied advanced feature engineering techniques to clean and prepare the dataset for predictive modeling.\nThe Results: Successfully improved predictive accuracy by optimizing key performance metrics, specifically focusing on the ROC-AUC and F1 Score.\n\n\n\n\n2. Smart Kitchen Renovation & Automation\n(Project Management)\n\nThe Challenge: To plan and manage a comprehensive smart kitchen renovation within an 8-week timeframe and a strict $15,000 budget constraint.\nMy Role & Solution: I acted as the Project Manager, developing a Work Breakdown Structure (WBS) and Organizational Breakdown Structure (OBS) aligned strictly with PMI principles.\nMethodology: Created a detailed project schedule, established a robust cost baseline, and maintained a comprehensive risk register using ProjectLibre.\nThe Results: Successfully simulated the management of scope, time, cost, and risk to deliver the project requirements without exceeding the $15,000 budget.\n\n\n\n\n3. Benevento Foods Quality & Operations Analysis\n(Business Strategy & Operations)\n\nThe Challenge: Benevento Foods was experiencing operational inefficiencies and required a strategic overview to improve quality and output.\nMy Role & Solution: I conducted a comprehensive analysis of their operational performance using structured business frameworks.\nMethodology: Utilized data interpretation techniques to identify bottlenecks and map out process improvement opportunities.\nThe Results: Delivered actionable recommendations designed to enhance operational performance and support informed business strategy.\n\n\n(Note: We will come back later and add a screenshot or chart under each project to make them visually engaging!)"
+  }
+]

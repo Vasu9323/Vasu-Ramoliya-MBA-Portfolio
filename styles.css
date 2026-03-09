@@ -1,0 +1,22 @@
+body {
+  /* This creates a dark green tint OVER your image so text is readable */
+  background: linear-gradient(
+      rgba(26, 47, 35, 0.85), 
+      rgba(26, 47, 35, 0.85)
+    ), 
+    url('forest-bg.jpg'); /* Your image file name */
+  
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed; /* Keeps the background still while scrolling */
+  color: #eaf4ed; /* Soft mint-white for readable text */
+}
+
+a {
+  color: #6ee7b7; /* Bright mint green for links */
+  text-decoration: none;
+}
+
+a:hover {
+  color: #a7f3d0; 
+}
