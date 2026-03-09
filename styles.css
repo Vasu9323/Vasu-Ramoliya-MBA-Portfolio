@@ -1,4 +1,34 @@
-/* ======= GLOBAL STYLES (applies to all pages) ======= */
+/* ======= PROTECT NAVBAR FROM CUSTOM STYLES ======= */
+.navbar {
+  display: flex !important;
+  flex-direction: row !important;
+  background-color: #1a2f23 !important;
+  padding: 10px 20px !important;
+}
+
+.navbar-nav {
+  display: flex !important;
+  flex-direction: row !important;
+  list-style: none !important;
+  gap: 20px !important;
+}
+
+.navbar-nav .nav-link {
+  color: #6ee7b7 !important;
+  font-weight: bold !important;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #a7f3d0 !important;
+}
+
+.navbar-brand {
+  color: #ffffff !important;
+  font-weight: bold !important;
+  margin-right: 30px !important;
+}
+
+/* ======= GLOBAL STYLES ======= */
 body {
   color: #eaf4ed;
   font-family: 'Segoe UI', sans-serif;
@@ -15,29 +45,30 @@ a:hover {
 
 /* ======= HOME PAGE - Misty Pine Forest ======= */
 .page-home {
-  background: linear-gradient(rgba(111, 197, 150, 0.85), rgba(33, 70, 50, 0.85)),
+  background: linear-gradient(rgba(26, 47, 35, 0.85), rgba(26, 47, 35, 0.85)),
     url('forest-bg.jpg');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
 }
 
-/* ======= RESUME PAGE - Deep Moss Green ======= */
+/* ======= RESUME PAGE ======= */
 .page-resume {
   background-color: #1a2f23;
 }
 
-/* ======= PROJECTS PAGE - Dark Teal Forest ======= */
+/* ======= PROJECTS PAGE ======= */
 .page-projects {
   background-color: #132a2a;
 }
 
-/* ======= SKILLS PAGE - Night Pine ======= */
+/* ======= SKILLS PAGE ======= */
 .page-skills {
   background-color: #0f1f17;
 }
 
-/* ======= CONTACT PAGE - Deep Forest with Glow ======= */
+/* ======= CONTACT PAGE ======= */
 .page-contact {
   background: linear-gradient(135deg, #1a2f23 0%, #0d3320 50%, #1a2f23 100%);
 }
+
