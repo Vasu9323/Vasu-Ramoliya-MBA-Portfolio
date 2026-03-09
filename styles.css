@@ -15,7 +15,7 @@ a:hover {
 
 /* ======= HOME PAGE - Misty Pine Forest ======= */
 .page-home {
-  background: linear-gradient(rgba(227, 238, 232, 0.85), rgba(49, 86, 66, 0.85)),
+  background: linear-gradient(rgba(111, 197, 150, 0.85), rgba(33, 70, 50, 0.85)),
     url('forest-bg.jpg');
   background-size: cover;
   background-position: center;
