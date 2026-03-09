@@ -1,22 +1,43 @@
+/* ======= GLOBAL STYLES (applies to all pages) ======= */
 body {
-  /* This creates a dark green tint OVER your image so text is readable */
-  background: linear-gradient(
-      rgba(26, 47, 35, 0.85), 
-      rgba(26, 47, 35, 0.85)
-    ), 
-    url('forest-bg.jpg'); /* Your image file name */
-  
-  background-size: cover;
-  background-position: center;
-  background-attachment: fixed; /* Keeps the background still while scrolling */
-  color: #eaf4ed; /* Soft mint-white for readable text */
+  color: #eaf4ed;
+  font-family: 'Segoe UI', sans-serif;
 }
 
 a {
-  color: #6ee7b7; /* Bright mint green for links */
+  color: #6ee7b7;
   text-decoration: none;
 }
 
 a:hover {
-  color: #a7f3d0; 
+  color: #a7f3d0;
+}
+
+/* ======= HOME PAGE - Misty Pine Forest ======= */
+.page-home {
+  background: linear-gradient(rgba(227, 238, 232, 0.85), rgba(49, 86, 66, 0.85)),
+    url('forest-bg.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+/* ======= RESUME PAGE - Deep Moss Green ======= */
+.page-resume {
+  background-color: #1a2f23;
+}
+
+/* ======= PROJECTS PAGE - Dark Teal Forest ======= */
+.page-projects {
+  background-color: #132a2a;
+}
+
+/* ======= SKILLS PAGE - Night Pine ======= */
+.page-skills {
+  background-color: #0f1f17;
+}
+
+/* ======= CONTACT PAGE - Deep Forest with Glow ======= */
+.page-contact {
+  background: linear-gradient(135deg, #1a2f23 0%, #0d3320 50%, #1a2f23 100%);
 }
